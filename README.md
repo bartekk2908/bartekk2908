@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=bartekk2908)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=bartekk2908&layout=pie&langs_count=9&disable_animations=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=bartekk2908&layout=pie&langs_count=9&disable_animations=true&theme=dark_github)
